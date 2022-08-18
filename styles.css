@@ -43,8 +43,12 @@ body {
     float: center;
 }
 
-.postheader {
-    text-align: center;
+.mainbody{
+    text-align: left;
+}
+
+.achievements {
+    text-align: left;
 }
 .linkheader {
     text-align: center;
