@@ -1,5 +1,5 @@
 
-/ Script displays custom greeting basedo n current time /
+/ Script displays custom greeting based on current time /
 
 var today = new Date();
 var hournow = today.getHours();
