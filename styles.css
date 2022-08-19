@@ -14,7 +14,7 @@ body {
     border-radius: 15px;
     border-width: 3px;
     margin-bottom: .5%;
-    width: 98%;
+    width: 98.5%;
 }
 
 .introduction {
@@ -30,7 +30,7 @@ body {
 }
 
 .main{
-    padding-left: -15%;
+    padding-left: -17%;
     margin-bottom: 2.5%;
     background-color:cornsilk;
     border-style:inset;
@@ -38,11 +38,18 @@ body {
     margin-left: 11%;
     border-width: 3px;
     border-radius: 15px;
-    width: 86.9%;
+    width: 87.4%;
     text-align: center;
     float: center;
 }
 
+.recent {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    display: inline-block;
+}
 .mainbody{
     text-align: left;
 }
@@ -61,5 +68,5 @@ body {
     text-align: center;
     margin-bottom: .5%;
     border-style: inset;
-    width: 98%;
+    width: 98.5%;
 }
